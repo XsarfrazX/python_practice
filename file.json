@@ -1,0 +1,54 @@
+[
+    {
+        "Name": "Sarfraz",
+        "Movies": [{
+            "name": "Cool movie",
+            "rating": 10
+        },
+        {
+            "name": "DDLJ",
+            "rating": 7
+        },
+        {
+            "name": "batman",
+            "rating": 6
+        }
+    ]
+    },
+    {
+        "Name": "Nithin",
+        "Movies": [{
+            "name": "Shawshank Redemption",
+            "rating": 8.6
+        },
+        {
+            "name": "The Irishman",
+            "rating": 10
+        },
+        {
+            "name": "Rocky",
+            "rating": 2
+        }
+    ]
+    }, 
+    {
+        "Name": "Karthik",
+        "Movies": [{
+            "name": "Pretty Woman",
+            "rating": 4
+        },
+        {
+            "name": "Schildler List",
+            "rating": 5
+        },
+        {
+            "name": "Up",
+            "rating": 3
+        },
+        {
+            "name": "Zoro",
+            "rating": 5
+        }
+    ]
+    }    
+]
